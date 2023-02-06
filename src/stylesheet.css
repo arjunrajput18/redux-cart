@@ -1,0 +1,18 @@
+div{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.demo{
+    color: green;
+}
+
+.demo1{
+    color: blue;
+}
+
+
+.demo2{
+    font-size: 150px;
+}
